@@ -1,7 +1,7 @@
 {
   "name": "source-manager",
   "version": "1.0.0",
-  "description": "A nice greeter",
+  "description": "Simple module that helper to manage external data services.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -18,7 +18,21 @@
   "files": [
     "lib/**/*"
   ],
-  "keywords": [],
+  "keywords": [
+    "http",
+    "source",
+    "api",
+    "helper",
+    "manager"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkotsuka/source-manager.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/dkotsuka/source-manager/issues"
+  },
+  "homepage": "git+https://github.com/dkotsuka/source-manager#readme",
   "author": "dkotsuka",
   "license": "ISC",
   "devDependencies": {
