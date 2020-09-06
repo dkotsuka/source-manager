@@ -1,6 +1,6 @@
 {
   "name": "source-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple module that helper to manage external data services.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
